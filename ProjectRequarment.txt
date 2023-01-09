@@ -1,0 +1,59 @@
+Project Requirement
+===========================
+Multiventor E-commerce (PHP, Laravel, JS, CSS, HTML, Bootstrap,Mysql)
+
+1. Category
+	a. Add
+		i. name
+		ii. Image
+		iii. slug
+	b. Manage
+		i. Category
+
+2. Sub Category
+	a. Add
+		i. Category_id
+		ii. Name
+		iii.Slug
+	b. Manage
+		i. Sub category list
+3. Brand
+	a. Add
+		i. Category_id
+		ii. Name
+		iii. slug
+	b. Manage
+		i. Brand list
+4. Color
+	a. Add
+		i. Name
+		ii. status
+	b. Manage
+		i. Color list
+5. Size
+	a. Add
+		i. Name
+		ii. Status
+	b. Mange
+		i. Size list
+6. Product
+	a. Category_id
+	b. Name
+	c. Price
+	d. Qty
+	e. Vendor_id
+	f. Image
+	g. Multi image
+	h. Status
+	i. Color
+	j. Size
+7. Customer
+	a. registration
+	b. Login
+	c. Forgot password
+8. Vendor
+	a. Registration
+	b. Login
+	c. Forgot password
+	d. Product upload system
+	e. Panel

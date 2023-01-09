@@ -1,0 +1,45 @@
+app
+	consol= timeing control
+	exceptions= error control
+	http
+		controller=
+		middleware=
+	models= class thakbe , 
+App
+	Http
+		Controllers
+			Controllers Class
+
+migration file
+=============
+database
+	migration
+		..............
+
+Route/URL
+Routes
+	web.php
+	api.php
+	custome.php
+
+Models
+======
+App
+	Models
+		Model
+
+Blade File
+=========
+Recourses
+	views
+		name.blade.php
+
+Assets
+=========
+public
+	--------
+
+
+
+
+    
